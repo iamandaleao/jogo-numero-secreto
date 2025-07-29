@@ -1,6 +1,6 @@
 # Curso: Lógica de Programação – Funções e Listas
 
-Este repositório contém os projetos desenvolvidos durante o curso **"Lógica de Programação: explore funções e listas"**, realizado na plataforma Alura em parceria com a Oracle, pelo programa **Oracle Next Education (ONE)**.
+Este repositório contém os projetos desenvolvidos durante o curso **Lógica de Programação: explore funções e listas**, realizado na plataforma Alura em parceria com a Oracle, pelo programa **Oracle Next Education (ONE)**.
 
 ## 🧠 Sobre o curso
 
