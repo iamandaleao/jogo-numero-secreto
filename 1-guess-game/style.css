@@ -13,6 +13,10 @@ body {
     justify-content: center;
 }
 
+img {
+    width: 280px;
+    padding-right: 20px;
+}
 
 body::before {
     background-image: url("img/code.png");
