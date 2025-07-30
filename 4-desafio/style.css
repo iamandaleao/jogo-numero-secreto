@@ -55,6 +55,13 @@ body::before {
     flex-direction: column;
 }
 
+button {
+  cursor: pointer;
+  &:hover {
+    opacity: 0.8;
+  }
+}
+
 .container__botao {
     border-radius: 16px;
     background: #1875E8;
