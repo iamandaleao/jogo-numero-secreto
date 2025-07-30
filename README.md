@@ -39,7 +39,7 @@ Neste curso, dei mais um passo importante na minha formação como desenvolvedor
 
 ## 🔗 Publicação
 
-Os projetos podem ser acessados diretamente pelo navegador após publicação na [Vercel](https://vercel.com/) e estão organizados neste repositório.
+Os projetos podem ser acessados diretamente pelo navegador após publicação na [Vercel](https://jogo-numero-secreto-gamma-teal.vercel.app/) e estão organizados neste repositório.
 
 ---
 
